@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Buying guidance</span><h2>Every procedure needs clear strategic criteria, proportionate evidence and an accountable buying owner</h2><p>Public buyers can document lifecycle value, accessibility, resilience and low-carbon requirements while keeping competition fair.</p></section></template>
